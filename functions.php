@@ -24,6 +24,7 @@ define( 'HELLO_ELEMENTOR_CHILD_VERSION', '2.0.0' );
 
 // require file 
 require_once('includes/custom-post-type/cpt.php');
+require_once('includes/TGM/activation.php');
 
 function hello_elementor_child_scripts_styles() {
 
